@@ -10,6 +10,11 @@
     }
   ],
   "require": {},
+  "autoload": {
+    "psr-4": {
+      "JaPronto\\Geographic\\": "src/"
+    }
+  },
   "extra": {
     "laravel": {
       "providers": [
