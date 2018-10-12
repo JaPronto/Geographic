@@ -17,9 +17,7 @@
   },
   "extra": {
     "laravel": {
-      "providers": [
-        "JaPronto\\Geographic\\GeographicServiceProvider"
-      ]
+      "providers": []
     }
   }
 }
